@@ -46,10 +46,10 @@ const Hero = () => {
           <Image 
             src={hero} 
             alt="image-hero" 
-            className="-ml-10 h-[310px] sm:-mb-20 sm:h-[400px] lg:-mb-28 lg:h-auto xl:w-[70%]" 
+            className="-ml-10 h-[310px] sm:-mb-20 sm:h-[400px] lg:-mb-28 lg:h-[630px] xl:h-auto xl:w-[70%]" 
           />
 
-          <div className="flex w-full flex-col items-center lg:container lg:flex-row lg:justify-between lg:px-20">
+          <div className="flex w-full flex-col items-center sm:mt-3 lg:container lg:flex-row lg:justify-between lg:px-20 lg:mt-4">
             <p className="text-white font-normal leading-6 text-center">
               Trusted by these companies
             </p>
