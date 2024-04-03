@@ -50,7 +50,7 @@ const Hero = () => {
           />
 
           <div className="flex w-full flex-col items-center sm:mt-3 lg:container lg:flex-row lg:justify-between lg:px-20 lg:mt-4">
-            <p className="text-white font-normal leading-6 text-center">
+            <p className="text-white font-normal leading-6 text-center ">
               Trusted by these companies
             </p>
             <div className="grid grid-cols-3 items-center justify-center justify-items-center px-[20px] align-middle lg:grid-cols-5">
