@@ -141,6 +141,16 @@ const Features = () => {
            Get a birds eye view with our customizable dashboard. 
           </p>
 
+            <div className="flex w-full gap-x-[24px] pt-[24px]">
+                <div className="flex flex-col w-1/2 gap-y-3">
+                    <h3 className="text-[20px] font-medium text-[#172026]">100+</h3>
+                    <p>Lorem ipsum dolor amet.</p>
+                </div>
+                <div className="flex flex-col w-1/2 gap-y-3">
+                    <h3 className="text-[20px] font-medium text-[#172026]">800+</h3>
+                    <p>Conse ipsum dolor amet.</p>
+                </div>
+            </div>
 
           <p className="text-[#EB2891] pt-[24px] flex items-center gap-x-4 font-medium lg:text-[18px]">
             Learn More
