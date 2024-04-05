@@ -13,14 +13,14 @@ const Footer = () => {
         <p className="font-bold text-[17px] text-[#36485C]">Souli.</p>
       </div>
 
-      <ul className="flex flex-col items-center gap-y-[32px] pt-[56px] text-[#36485C] text-[16px]">
+      <ul className="flex flex-col items-center gap-y-[32px] pt-[56px] text-[#36485C] text-[16px] sm:flex-row sm:justify-center sm:gap-x-5 sm:pt-5">
         <li>Features</li>
         <li>Pricing</li>
         <li>Enterprise</li>
         <li>Careers</li>
       </ul>
 
-      <p className="pt-[56px] text-center font-medium text-[#5F7896]">
+      <p className="pt-[56px] text-center font-medium text-[#5F7896] sm:pt-5">
         © Copyright 2024. Souli. All rights reserved.
       </p>
 
